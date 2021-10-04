@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "123693843572",
+    "project_id": "capacitacionestancias202-ab476",
+    "storage_bucket": "capacitacionestancias202-ab476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123693843572:android:06e1ee5aae8cb4ef203d21",
+        "android_client_info": {
+          "package_name": "com.capacitacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123693843572-6j1buq1iv4htpqnaadt25b1k8reoc0a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYrxfe_q_e6WOa_xDGfAfw9tbum5GcG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123693843572-6j1buq1iv4htpqnaadt25b1k8reoc0a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123693843572:android:cbe493b8f5e422fa203d21",
+        "android_client_info": {
+          "package_name": "com.capacitacionfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123693843572-kqbdnkn0ganhpn6hkq5n1q2csst4aks9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capacitacionfb",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "123693843572-6j1buq1iv4htpqnaadt25b1k8reoc0a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoYrxfe_q_e6WOa_xDGfAfw9tbum5GcG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123693843572-6j1buq1iv4htpqnaadt25b1k8reoc0a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
